@@ -20,7 +20,7 @@ header{
     display: flex;
     flex-direction: column;
     background: #264653;
-    height: 15.8vh;
+    height: 15vh;
     position: fixed;
     width: 100vw;
 }
